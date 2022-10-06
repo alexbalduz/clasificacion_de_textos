@@ -117,7 +117,7 @@ print(prediccion)
 if(prediccion[0]==0):
     print(">> No cree en el calentamiento climático...")
 else:
-    print(">> Cree en el calentamiento climático...")
+    print(">> Cree en el calentamiento climático...") 
 
 
 
